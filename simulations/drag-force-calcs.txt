@@ -1,0 +1,33 @@
+Shot: v=7.5 m/s at 45°  (vx=5.303, vy=5.303 m/s)
+
+Arena                                          ρ (kg/m³)    Fdx (N)    Fdy (N)   |Fd| (N)
+------------------------------------------------------------------------------------------
+Ball Arena (Denver Nuggets)                        1.014    -0.4245    -0.4245     0.6003
+Delta Center (Utah Jazz)                           1.051    -0.4400    -0.4400     0.6222
+Paycom Center (OKC Thunder)                        1.173    -0.4911    -0.4911     0.6945
+Footprint Center (Phoenix Suns)                    1.178    -0.4932    -0.4932     0.6974
+State Farm Arena (Atlanta Hawks)                   1.181    -0.4944    -0.4944     0.6992
+Little Caesars Arena (Detroit Pistons)             1.183    -0.4952    -0.4952     0.7004
+Target Center (Minnesota Timberwolves)             1.188    -0.4973    -0.4973     0.7033
+Spectrum Center (Charlotte Hornets)                1.194    -0.4998    -0.4998     0.7069
+Gainbridge Fieldhouse (Indiana Pacers)             1.194    -0.4998    -0.4998     0.7069
+Rocket Mortgage FieldHouse (Cleveland)             1.196    -0.5007    -0.5007     0.7081
+Frost Bank Center (San Antonio Spurs)              1.197    -0.5011    -0.5011     0.7087
+United Center (Chicago Bulls)                      1.199    -0.5019    -0.5019     0.7099
+Fiserv Forum (Milwaukee Bucks)                     1.199    -0.5019    -0.5019     0.7099
+American Airlines Center (Dallas Mavs)             1.206    -0.5049    -0.5049     0.7140
+Scotiabank Arena (Toronto Raptors)                 1.214    -0.5082    -0.5082     0.7187
+FedExForum (Memphis Grizzlies)                     1.214    -0.5082    -0.5082     0.7187
+Crypto.com Arena (Lakers/Clippers)                 1.215    -0.5086    -0.5086     0.7193
+Kia Center (Orlando Magic)                         1.220    -0.5107    -0.5107     0.7223
+Moda Center (Portland Trail Blazers)               1.221    -0.5112    -0.5112     0.7229
+Chase Center (Golden State Warriors)               1.223    -0.5120    -0.5120     0.7241
+Barclays Center (Brooklyn Nets)                    1.223    -0.5120    -0.5120     0.7241
+Capital One Arena (Washington Wizards)             1.223    -0.5120    -0.5120     0.7241
+Toyota Center (Houston Rockets)                    1.223    -0.5120    -0.5120     0.7241
+Madison Square Garden (NY Knicks)                  1.223    -0.5120    -0.5120     0.7241
+Golden 1 Center (Sacramento Kings)                 1.224    -0.5124    -0.5124     0.7247
+Wells Fargo Center (Philadelphia 76ers)            1.224    -0.5124    -0.5124     0.7247
+TD Garden (Boston Celtics)                         1.225    -0.5128    -0.5128     0.7252
+Kaseya Center (Miami Heat)                         1.225    -0.5128    -0.5128     0.7252
+Smoothie King Center (NO Pelicans)                 1.225    -0.5128    -0.5128     0.7252

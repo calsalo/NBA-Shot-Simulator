@@ -1,58 +1,58 @@
 By elevation
-Ball Arena — Denver Nuggets — 5,280 ft
+Ball Arena — Denver Nuggets — 5,280 ft — ρ = 1.225 × e^(-1609.3440 / 8500) ≈ 1.014 kg/m³
 
-Delta Center — Utah Jazz — 4,265 ft
+Delta Center — Utah Jazz — 4,265 ft — ρ = 1.225 × e^(-1299.9720 / 8500) ≈ 1.051 kg/m³
 
-Paycom Center — Oklahoma City Thunder — 1,199 ft
+Paycom Center — Oklahoma City Thunder — 1,199 ft — ρ = 1.225 × e^(-365.4552 / 8500) ≈ 1.173 kg/m³
 
-Footprint Center — Phoenix Suns — 1,086 ft
+Footprint Center — Phoenix Suns — 1,086 ft — ρ = 1.225 × e^(-331.0128 / 8500) ≈ 1.178 kg/m³
 
-State Farm Arena — Atlanta Hawks — 1,023 ft
+State Farm Arena — Atlanta Hawks — 1,023 ft — ρ = 1.225 × e^(-311.8104 / 8500) ≈ 1.181 kg/m³
 
-Little Caesars Arena — Detroit Pistons — 968 ft
+Little Caesars Arena — Detroit Pistons — 968 ft — ρ = 1.225 × e^(-295.0464 / 8500) ≈ 1.183 kg/m³
 
-Target Center — Minnesota Timberwolves — 845 ft
+Target Center — Minnesota Timberwolves — 845 ft — ρ = 1.225 × e^(-257.5560 / 8500) ≈ 1.188 kg/m³
 
-Spectrum Center — Charlotte Hornets — 721 ft
+Spectrum Center — Charlotte Hornets — 721 ft — ρ = 1.225 × e^(-219.7608 / 8500) ≈ 1.194 kg/m³
 
-Gainbridge Fieldhouse — Indiana Pacers — 707 ft
+Gainbridge Fieldhouse — Indiana Pacers — 707 ft — ρ = 1.225 × e^(-215.4936 / 8500) ≈ 1.194 kg/m³
 
-Rocket Mortgage FieldHouse — Cleveland Cavaliers — 669 ft
+Rocket Mortgage FieldHouse — Cleveland Cavaliers — 669 ft — ρ = 1.225 × e^(-203.9112 / 8500) ≈ 1.196 kg/m³
 
-Frost Bank Center — San Antonio Spurs — 641 ft
+Frost Bank Center — San Antonio Spurs — 641 ft — ρ = 1.225 × e^(-195.3768 / 8500) ≈ 1.197 kg/m³
 
-United Center — Chicago Bulls — 593 ft
+United Center — Chicago Bulls — 593 ft — ρ = 1.225 × e^(-180.7464 / 8500) ≈ 1.199 kg/m³
 
-Fiserv Forum — Milwaukee Bucks — 593 ft
+Fiserv Forum — Milwaukee Bucks — 593 ft — ρ = 1.225 × e^(-180.7464 / 8500) ≈ 1.199 kg/m³
 
-American Airlines Center — Dallas Mavericks — 426 ft
+American Airlines Center — Dallas Mavericks — 426 ft — ρ = 1.225 × e^(-129.8448 / 8500) ≈ 1.206 kg/m³
 
-Scotiabank Arena — Toronto Raptors — 260 ft
+Scotiabank Arena — Toronto Raptors — 260 ft — ρ = 1.225 × e^(-79.2480 / 8500) ≈ 1.214 kg/m³
 
-FedExForum — Memphis Grizzlies — 250 ft
+FedExForum — Memphis Grizzlies — 250 ft — ρ = 1.225 × e^(-76.2000 / 8500) ≈ 1.214 kg/m³
 
-Crypto.com Arena — Los Angeles Lakers / Clippers — 239 ft
+Crypto.com Arena — Los Angeles Lakers / Clippers — 239 ft — ρ = 1.225 × e^(-72.8472 / 8500) ≈ 1.215 kg/m³
 
-Kia Center — Orlando Magic — 106 ft
+Kia Center — Orlando Magic — 106 ft — ρ = 1.225 × e^(-32.3088 / 8500) ≈ 1.220 kg/m³
 
-Moda Center — Portland Trail Blazers — 92 ft
+Moda Center — Portland Trail Blazers — 92 ft — ρ = 1.225 × e^(-28.0416 / 8500) ≈ 1.221 kg/m³
 
-Chase Center — Golden State Warriors — 52 ft
+Chase Center — Golden State Warriors — 52 ft — ρ = 1.225 × e^(-15.8496 / 8500) ≈ 1.223 kg/m³
 
-Barclays Center — Brooklyn Nets — 49 ft
+Barclays Center — Brooklyn Nets — 49 ft — ρ = 1.225 × e^(-14.9352 / 8500) ≈ 1.223 kg/m³
 
-Capital One Arena — Washington Wizards — 46 ft
+Capital One Arena — Washington Wizards — 46 ft — ρ = 1.225 × e^(-14.0208 / 8500) ≈ 1.223 kg/m³
 
-Toyota Center — Houston Rockets — 45 ft
+Toyota Center — Houston Rockets — 45 ft — ρ = 1.225 × e^(-13.7160 / 8500) ≈ 1.223 kg/m³
 
-Madison Square Garden — New York Knicks — 35 ft
+Madison Square Garden — New York Knicks — 35 ft — ρ = 1.225 × e^(-10.6680 / 8500) ≈ 1.223 kg/m³
 
-Golden 1 Center — Sacramento Kings — 34 ft
+Golden 1 Center — Sacramento Kings — 34 ft — ρ = 1.225 × e^(-10.3632 / 8500) ≈ 1.224 kg/m³
 
-Wells Fargo Center — Philadelphia 76ers — 18 ft
+Wells Fargo Center — Philadelphia 76ers — 18 ft — ρ = 1.225 × e^(-5.4864 / 8500) ≈ 1.224 kg/m³
 
-TD Garden — Boston Celtics — 10 ft
+TD Garden — Boston Celtics — 10 ft — ρ = 1.225 × e^(-3.0480 / 8500) ≈ 1.225 kg/m³
 
-Kaseya Center — Miami Heat — 5 ft
+Kaseya Center — Miami Heat — 5 ft — ρ = 1.225 × e^(-1.5240 / 8500) ≈ 1.225 kg/m³
 
-Smoothie King Center — New Orleans Pelicans — 2 ft
+Smoothie King Center — New Orleans Pelicans — 2 ft — ρ = 1.225 × e^(-0.6096 / 8500) ≈ 1.225 kg/m³
