@@ -1,4 +1,4 @@
-# NBA Shot Simulator — Altitude vs. Trajectory
+# NBA Shot Simulator — Altitude vs. Trajectory (WIP)
 
 > Does altitude actually affect a basketball shot? I built a physics simulator to find out.
 
