@@ -1,8 +1,8 @@
-# NBA Shot Simulator — Altitude vs. Trajectory (WIP)
+# NBA Shot Simulator - Altitude vs. Trajectory
 
 > Does altitude actually affect a basketball shot? I built a physics simulator to find out.
 
-## The Question
+## Overview
 
 Denver's Ball Arena sits at **5,280 feet above sea level**, which is over a mile high. Madison Square Garden sits at **33 feet**. Every player who shoots in Denver is working with thinner air than they trained in.
 
@@ -10,7 +10,7 @@ Air resistance acts on every shot. And air resistance depends on air density. An
 
 This project simulates exactly that.
 
----
+The current visualization compares the same calibrated three-point shot across multiple NBA arenas and shows how changes in air density affect the trajectory near the rim.
 
 ## How It Works
 
@@ -33,9 +33,13 @@ $$\rho(h) = \rho_0 \cdot e^{-h/H}$$
 - $C_d = 0.47$ (drag coefficient for a sphere)
 - Basketball radius: $0.12 \ \text{m}$, mass: $0.623 \ \text{kg}$
 
-Because drag makes the equations of motion impossible to solve analytically, the simulation uses **numerical integration** (Runge-Kutta 4th order) to step through the flight path.
+The simulator numerically solves the projectile motion with aerodynamic drag using `scipy.integrate.solve_ivp`.
 
----
+## Output
+
+The main script generates `shot_comparison.png`, a trajectory comparison with a zoomed basket view.
+
+![Shot comparison](shot_comparison.png)
 
 ## Getting Started
 
@@ -45,19 +49,26 @@ Because drag makes the equations of motion impossible to solve analytically, the
 git clone https://github.com/calsalo/NBA-Shot-Simulator
 cd NBA-Shot-Simulator
 pip install -r requirements.txt
-python simulations/test.py
+python simulations/shot-visual.py
 ```
-
----
 
 ## Tech Stack
 
 - Python
 - NumPy — numerical computation
 - Matplotlib — visualization and animation
-- SciPy — optional solver for integration validation
+- SciPy — numerical ODE solver
 
----
+## Project Structure
+
+```text
+simulations/
+  shot-visual.py      # Main visualization script
+  drag-force.py       # Drag force calculations
+  first-test.py       # Early prototype simulation
+shot_comparison.png   # Generated comparison chart
+requirements.txt
+```
 
 ## References
 
